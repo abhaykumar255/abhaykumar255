@@ -3,7 +3,7 @@
 🚀 **Mobile App Developer | Android & Cross-Platform Specialist**  
 🛠 Kotlin, React Native, IoT, Android SDK, Jetpack, MVVM  
 🌱 Constantly learning and innovating in the world of mobile development  
-👨‍💻 Currently working as a Software Engineer at Tekion India Pvt. Ltd.
+👨‍💻 Currently working as an Associate Software Engineer at Tekion India Pvt. Ltd.
 
 ### Professional Experience
 - **Digital Signage Platform (Android)**: Contributed to an IoT-driven Android TV app, enhancing features and optimizing performance to improve user engagement in the automotive industry.
