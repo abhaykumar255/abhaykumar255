@@ -1,16 +1,9 @@
-# Hi, I'm Abhay Kumar 👋
+### 👋 Hi, I'm Abhay Kumar
 
-🚀 **Mobile App Developer | Android & Cross-Platform Specialist**  
-🛠 Kotlin, React Native, IoT, Android SDK, Jetpack, MVVM  
-🌱 Constantly learning and innovating in the world of mobile development  
-👨‍💻 Currently working as an Associate Software Engineer at Tekion India Pvt. Ltd.
+- 🔧 Android & React Native Developer (Jetpack Compose, MVVM, Clean Architecture)
+- 🚀 Built production-grade apps for Android TV, Kiosk systems, and IoT integrations
+- 📊 Reduced app latency by 35% and achieved 99.8% crash-free sessions
+- 🔭 Currently contributing to enterprise mobile solutions at Tekion
 
-### Professional Experience
-- **Digital Signage Platform (Android)**: Contributed to an IoT-driven Android TV app, enhancing features and optimizing performance to improve user engagement in the automotive industry.
-- **Self-Checkout Kiosk Application (Android)**: Led the development of an interactive kiosk system from scratch, improving service center efficiency by 30%.
-- **Cross-Platform Mobile Application (React Native)**: Spearheaded the development of a cross-platform mobile app, ensuring seamless integration with IoT devices and real-time data synchronization.
-
-
-### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [GitHub](https://github.com/abhaykumar255)
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/abhaykumar255)
 
