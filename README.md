@@ -1,9 +1,16 @@
-### 👋 Hi, I'm Abhay Kumar
+# 👋 Hi, I'm Abhay Kumar  
 
-- 🔧 Android & React Native Developer (Jetpack Compose, MVVM, Clean Architecture)
-- 🚀 Built production-grade apps for Android TV, Kiosk systems, and IoT integrations
-- 📊 Reduced app latency by 35% and achieved 99.8% crash-free sessions
-- 🔭 Currently contributing to enterprise mobile solutions at Tekion
+🚀 **Backend & Android Engineer** with 2+ years of experience designing **scalable distributed systems** and **high-performance mobile applications**.  
 
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/abhaykumar255)
+- ⚡ Expertise in **Java, Spring Boot, Microservices, Kafka, PostgreSQL, Redis, AWS**  
+- 🏗️ Built **enterprise-grade APIs** handling **10K+ concurrent users** with **sub-200ms latency** and **99.9% uptime**  
+- 📱 Developed **Android apps (Kotlin, MVVM, Jetpack)** integrated with IoT & kiosk systems, achieving **99.5% crash-free sessions**  
+- ☁️ Skilled in **cloud-native architectures, containerization (Docker, CI/CD), and system design**  
+- 🔍 Passionate about **distributed systems, scalability, and performance optimization**  
+
+📌 **Featured Projects:**  
+- 🔗 [Professional Networking System](#) *(Spring Boot | Kafka | AWS | Neo4j)*  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](#)  
+
 
