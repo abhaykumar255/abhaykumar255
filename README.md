@@ -9,7 +9,7 @@
 - 🔍 Passionate about **distributed systems, scalability, and performance optimization**  
 
 📌 **Featured Projects:**  
-- 🔗 [Professional Networking System](#) *(Spring Boot | Kafka | AWS | Neo4j)*  
+- 🔗 [Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System) *(Spring Boot | Kafka | AWS | Neo4j)*  
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](#)  
 
