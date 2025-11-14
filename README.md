@@ -9,7 +9,8 @@
 - 🔍 Passionate about **distributed systems, scalability, and performance optimization**  
 
 📌 **Featured Projects:**  
-- 🔗 [Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System) *(Spring Boot | Kafka | AWS | Neo4j | PostgreSQL | Redis)*  
+- 🔗 [Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System) *(Spring Boot | Kafka | AWS | Neo4j | PostgreSQL | Redis)*
+- 🔗 [Social-Commerce-Platform](https://github.com/abhaykumar255/Social-Commerce-Platform) *(Spring Boot | Elastic Search | Kafka | AWS | Azure | MongoDB | Neo4j | PostgreSQL | Redis)*
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](#)  
 
