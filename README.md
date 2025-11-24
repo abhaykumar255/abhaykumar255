@@ -19,6 +19,6 @@
 - 🔗 [Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System) *(Spring Boot | Kafka | AWS | Neo4j | PostgreSQL | Redis)*
 - 🔗 [Social-Commerce-Platform](https://github.com/abhaykumar255/Social-Commerce-Platform) *(Spring Boot | ElasticSearch | Kafka | AWS | Azure | MongoDB | Neo4j | PostgreSQL | Redis)*
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](#)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](https://drive.google.com/file/d/1ivwwa1v6qwibLVuFmcDvx4k34Lbrepr0/view?usp=sharing)  
 
 
