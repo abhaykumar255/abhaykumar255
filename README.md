@@ -33,11 +33,11 @@ I'm a backend software engineer with 2+ years of experience building **high-scal
 
 ## 🏗 Featured Projects
 
-### 🔹 **Professional Networking System**
+### 🔹 **[Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System)**
 Microservices • Kafka • AWS • Neo4j • Redis  
 Designed a distributed architecture with 6 Spring Boot microservices, Kafka events, Redis caching, Neo4j graph DB, and AWS deployment. Optimized for 10K+ users with sub-200ms latency.
 
-### 🔹 **Social Commerce Platform**
+### 🔹 **[Social Commerce Platform](https://github.com/abhaykumar255/Social-Commerce-Platform)**
 Kafka • Kubernetes • ElasticSearch • CQRS • Resilience4j  
 Built for 20M+ users with <50ms latency, 10K+ RPS throughput, CQRS + Saga patterns, ElasticSearch indexing, and full fault tolerance.
 
@@ -54,15 +54,9 @@ Built for 20M+ users with <50ms latency, 10K+ RPS throughput, CQRS + Saga patter
 
 ---
 
-## 📫 Connect with me
-
-🔗 LinkedIn: https://linkedin.com/in/abhaykumar255  
-🐙 GitHub: https://github.com/abhaykumar255
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](https://drive.google.com/file/d/1ivwwa1v6qwibLVuFmcDvx4k34Lbrepr0/view?usp=sharing)  
 
 📌 **Featured Projects:**  
 - 🔗 [Professional Networking System](https://github.com/abhaykumar255/Professional-Networking-System) *(Spring Boot | Kafka | AWS | Neo4j | PostgreSQL | Redis)*
 - 🔗 [Social-Commerce-Platform](https://github.com/abhaykumar255/Social-Commerce-Platform) *(Spring Boot | ElasticSearch | Kafka | AWS | Azure | MongoDB | Neo4j | PostgreSQL | Redis)*
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](https://drive.google.com/file/d/1ivwwa1v6qwibLVuFmcDvx4k34Lbrepr0/view?usp=sharing)  
-
 
