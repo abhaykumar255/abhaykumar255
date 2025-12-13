@@ -54,4 +54,4 @@ Built for 20M+ users with <50ms latency, 10K+ RPS throughput, CQRS + Saga patter
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](https://drive.google.com/file/d/1Dcv3J13-2oD18z6gAw1EfAUsGdUKrlvK/view?usp=drive_link)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhaykumar255/) | [Resume](https://drive.google.com/file/d/1hOPys0SgG4Oh2lTMwkAA8RRg2I96wc22/view?usp=drive_link)  
